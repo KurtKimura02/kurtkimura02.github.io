@@ -11,9 +11,10 @@ labels:
 
 <img width="240px" class="rounded float-start pe-4" src="../img/first-impressions-of-javascript/javascript.png">
 
-## A Programmer's First Sip of JavaScript
-
 JavaScript is a programming language used in websites to add functionality, alongside the framework of HTML and stylization of CSS. JavaScript is also now used in servers and apps. Prior to taking ICS 314 at the University of Hawaii at Manoa, I had never used JavaScript before. While I have covered multiple other programming languages including C, C++, C#, Java, Python, HTML, and CSS; JavaScript was not among the languages I had learned.
+
+
+
 
 ## From Java to JavaScript
 
