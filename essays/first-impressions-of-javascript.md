@@ -9,16 +9,11 @@ labels:
   - JavaScript
 ---
 
-<img width="240px" class="rounded float-start pe-4" src="../img/first-impressions-of-javascript/javascript.png">
-
-JavaScript is a programming language used in websites to add functionality, alongside the framework of HTML and stylization of CSS. JavaScript is also now used in servers and apps. Prior to taking ICS 314 at the University of Hawaii at Manoa, I had never used JavaScript before. While I have covered multiple other programming languages including C, C++, C#, Java, Python, HTML, and CSS; JavaScript was not among the languages I had learned.
-
-
-
+<img width="480px" src="../img/first-impressions-of-javascript/javascript.png">
 
 ## From Java to JavaScript
 
-After covering the basics of JavaScript through freeCodeCamp’s lessons, I feel that JavaScript is very similar to Java, which I have used multiple times in the past. I learned Java first back in middle school to make mods for Minecraft, and went more in depth while taking ICS 111 at the University of Hawaii at Manoa. The syntax for JavaScript being very close to that of Java made going over the basics quite simple. However, I also found that JavaScript is much less rigid than Java, being similar to Python in this sense.
+Despite having learned HTML and CSS some time ago, I have never used JavaScript prior to taking ICS 314 at the University of Hawaii at Manoa. After covering the basics of JavaScript through freeCodeCamp’s lessons, I feel that JavaScript is very similar to Java, which I have used multiple times in the past. I learned Java first back in middle school to make mods for Minecraft, and went more in depth while taking ICS 111 at the University of Hawaii at Manoa. The syntax for JavaScript being very close to that of Java made going over the basics quite simple. However, I also found that JavaScript is much less rigid than Java, being similar to Python in this sense.
 
 ## JavaScript’s Flexible Functions
 
