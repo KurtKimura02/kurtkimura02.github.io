@@ -9,9 +9,9 @@ labels:
   - JavaScript
 ---
 
-<img width="480px" class="rounded float-start pe-4" src="https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/rayhtxucls52afxzdesla7wyii4r?sp=r&sv=2018-11-09&se=2023-09-01T06%3A37%3A03Z&rscd=inline%3B+filename%3D"Unofficial_JavaScript_logo_2.svg.png"%3B+filename*%3DUTF-8%27%27Unofficial_JavaScript_logo_2.svg.png&rsct=image%2Fpng&sr=b&sig=dtElIZvl8LXYAnch1JL8N84WYy5MGkuq8Yhu5Fwc4d4%3D">
+<img width="480px" class="rounded float-start pe-4" src="../img/first-impressions-of-javascript/javascript.jpg">
 
-*First Impressions of JavaScript*
+## What is JavaScript
 
 JavaScript is a programming language used in websites to add functionality, alongside the framework of HTML and stylization of CSS.
 
