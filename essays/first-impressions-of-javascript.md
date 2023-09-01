@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 
-<img width="480px" class="rounded float-start pe-4" src="../img/first-impressions-of-javascript/javascript.jpg">
+<img width="480px" class="rounded float-start pe-4" src="../img/first-impressions-of-javascript/javascript.png">
 
 ## What is JavaScript
 
