@@ -23,5 +23,3 @@ When a card is placed down, if it is touching another card, and the number on th
 Once the board is full, whoever has the most cards wins the game.
 
 <img class="img-fluid" src="../img/triple_triad/triple_triad3.png">
-
-Source: <a href=""><i class="large github icon "></i>X</a>
