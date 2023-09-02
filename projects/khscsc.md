@@ -6,7 +6,12 @@ title: "Kaiser High School Computer Science Club"
 date: 2018
 published: true
 labels:
-  - Club Leadership
+  - Leadership
+  - HTML
+  - CSS
+  - Python
+  - Godot
+  - Blender
 summary: "Various leadership roles within Kaiser High School's Computer Science Club"
 ---
 
