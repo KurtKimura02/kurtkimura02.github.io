@@ -25,3 +25,5 @@ Once the board is full, whoever has the most cards wins the game.
 <img class="img-fluid" src="../img/triple_triad/triple_triad3.png">
 
 In recreating this minigame, I learned that the mechanics of the game are much more complicated than they seem. It took a lot of effort to figure out how to recreate even just the basic version of the game, not accounting for the additional rulesets which exist.
+
+Source Code: <a href="https://github.com/KurtKimura02/triple-triad-remake"><i class="large github icon "></i>github.com/KurtKimura02/triple-triad-remake</a>
