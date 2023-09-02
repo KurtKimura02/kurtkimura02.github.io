@@ -8,6 +8,7 @@ published: true
 labels:
   - Unity
   - GitHub
+  - C#
 summary: "A resource management/tower defense game that I helped create for ICS 369 at UH Manoa."
 ---
 
@@ -23,4 +24,4 @@ Every night you survive more droids spawn to destroy your base, granting more re
 
 A playable version of the game can be found here: 
 
-Source: <a href="https://bencatcraw.github.com/mmm"><i class="large github icon "></i>bencatcraw.github.com/mmm</a>
+Source: <a href="https://bencatcraw.itch.io/mmm"><i class="large github icon "></i>bencatcraw.itch.io/mmm</a>
