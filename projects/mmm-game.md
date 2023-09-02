@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mmm/mmm_title.png
+image: img/mmm/mmm_logo.png
 title: "Mars Mech Mission"
 date: 2023
 published: true
