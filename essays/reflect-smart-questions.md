@@ -9,9 +9,9 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
-
 In order to learn the most about a subject, you have to ask questions. But the quality of the questions is more important than the quantity. Constantly asking an expert on a subject simple yes or no questions isn't the most efficient way to learn, and it will make your learning journey much longer than it needs to be. In the age of the internet, asking smart questions is even more important. Having access to vast amounts of information is useless if you can't ask the right questions. 
+
+<img src="../img/reflect-smart-questions/logo_stackoverflow.png">
 
 ## So how do you ask a smart question online?
 
@@ -114,8 +114,12 @@ i hope my question is clear now.
 ```
 Source: https://stackoverflow.com/questions/38473176/how-can-i-do-this-in-c-sharp
 
-To start, the title of the question does not make it clear what the person is looking to learn. All any potential answerer is prompted with is how to do what they want to do in the programming language C#. By the time I found this question, it had already been edited to be made more clear what the person was looking for. Even after editing however, the problem that they are looking to solve is not clear. At the top of their post, they ask how to change the name of a tag based on its attribute, then delete that attribute. Yet at the end of their post, they ask how to pass the output of one loop into another loop. It is unclear exactly what their goal is with this program. Even though their question is unclear, the example they provide helps to clarify their problem. It shows what they are trying to do, the incorrect output they are receiving, and the goal output. But that saving grace alone is not enough to make this a smart question.
+To start, the title of the question does not make it clear what the person is looking to learn. All any potential answerer is prompted with is how to do what they want to do in the programming language C#. By the time I found this question, it had already been edited to be made more clear what the person was looking for.
+
+Even after editing however, the problem that they are looking to solve is not clear. At the top of their post, they ask how to change the name of a tag based on its attribute, then delete that attribute. Yet at the end of their post, they ask how to pass the output of one loop into another loop. It is unclear exactly what their goal is with this program. Even though their question is unclear, the example they provide helps to clarify their problem. It shows what they are trying to do, the incorrect output they are receiving, and the goal output. But that saving grace alone is not enough to make this a smart question.
 
 This question was asked over 7 years ago, and has seen 4 answers. But, none of the answers were what the user was looking for. All of the answers provided were given before they updated their question, meaning that after they clarified their question, nobody else attempted to provide an answer. That is why it is important to have a strong title, and to clearly ask what you are looking for.
 
-## 
+## How much did finding these examples help you learn about asking smart questions?
+
+Being experienced in trying to learn how to solve problems on my own, by which I mean using the internet to search for the answers, I am already fairly comfortable with asking smart questions. I know that what I search needs to clearly state what I am looking for. While I have yet to post my own question on websites like Stack Overflow, searching through the website to see which questions got answers, and which ones did not made it clear to me how important it is to ask smart questions.
