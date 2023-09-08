@@ -15,7 +15,7 @@ labels:
 summary: "Various leadership roles within Kaiser High School's Computer Science Club"
 ---
 
-<img class="img-fluid" src="../img/khscsc/khscsc_logo.png">
+<img width="400px" class="img-fluid" src="../img/khscsc/khscsc_logo.png">
 
 Throughout my high school career, I took various leadership positions within Kaiser High School's Computer Science Club.
 
