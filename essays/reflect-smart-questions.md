@@ -11,9 +11,9 @@ labels:
 
 In order to learn the most about a subject, you have to ask questions. But the quality of the questions is more important than the quantity. Constantly asking an expert on a subject simple yes or no questions isn't the most efficient way to learn, and it will make your learning journey much longer than it needs to be. In the age of the internet, asking smart questions is even more important. Having access to vast amounts of information is useless if you can't ask the right questions. 
 
-<img width="500px" src="../img/reflect-smart-questions/logo-stackoverflow.png">
-
 ## So how do you ask a smart question online?
+
+<img width="500px" src="../img/reflect-smart-questions/logo-stackoverflow.png">
 
 A smart question is one that makes it clear what you are looking to learn. If you are looking to learn how to do something, you want to make it clear from the beginning what your goal is. 
 
