@@ -11,7 +11,7 @@ labels:
 
 In order to learn the most about a subject, you have to ask questions. But the quality of the questions is more important than the quantity. Constantly asking an expert on a subject simple yes or no questions isn't the most efficient way to learn, and it will make your learning journey much longer than it needs to be. In the age of the internet, asking smart questions is even more important. Having access to vast amounts of information is useless if you can't ask the right questions. 
 
-<img src="../img/reflect-smart-questions/logo-stackoverflow.png">
+<img width="500px" src="../img/reflect-smart-questions/logo-stackoverflow.png">
 
 ## So how do you ask a smart question online?
 
@@ -34,7 +34,7 @@ How can I sort them by the value of last_nom in JavaScript?
 
 I know about sort(a,b), but that only seems to work on strings and numbers. Do I need to add a toString() method to my objects?
 ```
-Source: https://stackoverflow.com/questions/1129216/sort-array-of-objects-by-string-property-value
+Source: <a href="https://stackoverflow.com/questions/1129216/sort-array-of-objects-by-string-property-value"><i class="large github icon "></i>stackoverflow.com/questions/1129216/sort-array-of-objects-by-string-property-value</a>
 
 Here, this user is asking about how to sort an array of objects based on a specific string property. The title of the question is brief, and clearly asks what they are looking to learn. Furthermore, they provide a simple example of the situation where the solution they are looking for could be used. This makes it clear to both potential answerers and other people with the same question what is being asked. They also provide additional context in telling other solutions they have attempted, and ask about a lead to the solution that they thought of.
 
@@ -112,7 +112,9 @@ be used as INPUT to the next loop is because of the output.
 
 i hope my question is clear now.
 ```
-Source: https://stackoverflow.com/questions/38473176/how-can-i-do-this-in-c-sharp
+Source: 
+
+<a href="https://stackoverflow.com/questions/38473176/how-can-i-do-this-in-c-sharp"><i class="large github icon "></i>https://stackoverflow.com/questions/38473176/how-can-i-do-this-in-c-sharp</a>
 
 To start, the title of the question does not make it clear what the person is looking to learn. All any potential answerer is prompted with is how to do what they want to do in the programming language C#. By the time I found this question, it had already been edited to be made more clear what the person was looking for.
 
@@ -120,6 +122,6 @@ Even after editing however, the problem that they are looking to solve is not cl
 
 This question was asked over 7 years ago, and has seen 4 answers. But, none of the answers were what the user was looking for. All of the answers provided were given before they updated their question, meaning that after they clarified their question, nobody else attempted to provide an answer. That is why it is important to have a strong title, and to clearly ask what you are looking for.
 
-## How much did finding these examples help you learn about asking smart questions?
+## Do you ask smart questions?
 
-Being experienced in trying to learn how to solve problems on my own, by which I mean using the internet to search for the answers, I am already fairly comfortable with asking smart questions. I know that what I search needs to clearly state what I am looking for. While I have yet to post my own question on websites like Stack Overflow, searching through the website to see which questions got answers, and which ones did not made it clear to me how important it is to ask smart questions.
+Being experienced in trying to learn how to solve problems on my own, by which I mean using the internet to search for the answers, I am already fairly comfortable with asking smart questions. I know that what I search needs to clearly state what I am looking for. While I have yet to post my own question on a website like Stack Overflow, searching through to see which questions got answers, and which ones did not made it clear to me how important it is to ask smart questions.
