@@ -12,6 +12,8 @@ labels:
 
 Coding standards help to create clean code that is easy to read for other programmers. Having clear and easy to read code is also helpful for debugging and optimization. For some people, following coding standards is a chore, and seems like it only exists to arbitrarily slow down the coding process. To others, they're essential to writing good code and being a good programmer.
 
+<img width="200px" class="rounded float-start pe-4" src="../img/coding-standards/eslint.jpg">
+
 ## My First Impression
 After one week of learning how to use IntelliJ and ESLint's coding standards, I have found it to be quite tedious to deal with. Having to go through my code to fix all the issues can be a chore. It adds an extra step of tedium to the final steps of finishing a program. ESLint's quick fixes also don't always work unless you have a good understanding of what your code does and what needs to be corrected.
 
