@@ -10,6 +10,8 @@ labels:
   - Meteor
 ---
 
+By: Kurt Kimura, Zeb Lakey, Carson Fu, Cade Kane, Ryan Seng
+
 ## The Problem
 While websites like RateMyProfessor are helpful in giving a student information on how good a professor is at teaching, there isn't any way to easily find how good a course is. Some courses are flipped classroom, and some are taught exclusively by TAs, but there isn't any easy way to tell.
 
