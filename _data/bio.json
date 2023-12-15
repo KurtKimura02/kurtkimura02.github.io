@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Kurt Kimura",
+    "label": "Student",
+    "picture": "https://github.com/kurtkimura02.png",
+    "email": "kurtkimu@hawaii.edu",
+    "phone": "808-679-5187",
+    "website": "https://kurtkimura02.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96825", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "kurtkimura02", "url": "http://github.com/kurtkimura02" },
+      { "network": "linkedin", "username": "kurtkimura02", "url": "https://www.linkedin.com/in/kurt-kimura-00536b28a/" }
+    ]
+  },
+  "interests": [
+    { "name": "Game Development" },
+    { "name": "Game Design" },
+    { "name": "Animation" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "C#", "Java", "Javascript", "Python", "HTML", "CSS", "JavaScript", "React Bootstrap" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-24",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Pacific Guardian Life",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2021",
+      "endDate": "2021",
+      "summary": "Summer internship, scanning documents.",
+      "highlights": [
+        "Scanned insurance information to create a digital backup.",
+        "Attempted to contact insurance owners who could not be contacted."
+      ]
+    },
+    {
+      "company": "Pacific Guardian Life",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2020",
+      "endDate": "2020-12-31",
+      "summary": "Summer internship, scanning documents.",
+      "highlights": [
+        "Scanned insurance information to create a digital backup, alongside making ease of access during the COVID-19 pandemic."
+      ]
+    }
+    
+  ],
+  "volunteer": [
+    {
+      "organization": "Lunalilo Home",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2018-11-21",
+      "endDate": "2018-11-21",
+      "summary": "Wrapped food to be put in an imu.",
+      "highlights": [
+        "Wrapped food items, and carried them to be cooked overnight in an imu the evening before Thanksgiving."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2020-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
