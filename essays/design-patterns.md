@@ -4,7 +4,7 @@ type: essay
 title: "Design Patterns in Code"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-30
-published: true
+published: false
 labels:
   - Software Engineering
 ---

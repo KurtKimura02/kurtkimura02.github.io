@@ -4,7 +4,7 @@ type: essay
 title: "I let an A.I. decide my essay title (not)"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-21
-published: true
+published: false
 labels:
   - Software Engineering
   - AI

@@ -13,6 +13,8 @@ Over the course of the Fall 2023 semester, I have learned much about software en
 
 ## Open Source Software Development
 
+<img class="img-fluid" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+
 One of the first concepts we learned about was open source software development. This means that the software that we develop, all of its code and directories, are available to the public. Thus, the source is open, and available for other programmers to look at, evaluate, and build off of.
 
 In ICS 314, most of our early assignments were open source. These projects were relatively simple, just learning the basics of JavaScript, HTML, and CSS. Beyond that, some of the early assignments where we actually built websites and programs were uploaded to GitHub as public repositories. As I progressed through the class, the assignments eventually became closed source, and unavailable to the public.
