@@ -6,7 +6,7 @@
     "email": "kurtkimu@hawaii.edu",
     "phone": "808-679-5187",
     "website": "https://kurtkimura02.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "I have a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
     "location": { "address": "", "postalCode": "96825", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "kurtkimura02", "url": "http://github.com/kurtkimura02" },
@@ -25,16 +25,16 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub" ]
+      "keywords": [ "Git/GitHub", "Unity", "Godot", "Meta XR SDK", "Unity XR Interaction Toolkit" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2020-08-24",
-      "endDate": "Present",
+      "endDate": "2025-05-17",
       "courses": [
       ]
     }
@@ -81,7 +81,7 @@
   "awards": [
     {
       "title": "Manoa Academic Merit Scholarship",
-      "date": "2020-Present",
+      "date": "2020",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     }
