@@ -6,7 +6,7 @@
     "email": "kurtkimu@hawaii.edu",
     "phone": "808-679-5187",
     "website": "https://kurtkimura02.github.io",
-    "summary": "I have a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
+    "summary": "I have a B.S. in Computer Science in the Department of Information and Computer Sciences from the University of Hawaii.",
     "location": { "address": "", "postalCode": "96825", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "kurtkimura02", "url": "http://github.com/kurtkimura02" },
@@ -40,6 +40,18 @@
     }
   ],
   "work": [
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "VRHealth Developer",
+      "website": "",
+      "startDate": "2025",
+      "endDate": "2025",
+      "summary": "VR project developed using Unity, built activities on established framework.",
+      "highlights": [
+        "Developed activities for a VR program to help diagnose and treat the development of memory disorders such as Alzheimers.",
+        "Organized demos for meetings to showcase development progress, and seek feedback for improvements."
+      ]
+    },
     {
       "company": "Pacific Guardian Life",
       "position": "Intern",
